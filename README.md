@@ -39,4 +39,4 @@ Open your browser and navigate to http://localhost:8080.
 
 ## Re-distribution
 
-The HTML code distributed in the docker container can be found in the client directory of this repository.
+The HTML code distributed in the docker container can be found in the www directory of this repository.
